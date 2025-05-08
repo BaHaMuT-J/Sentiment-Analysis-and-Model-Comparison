@@ -61,9 +61,9 @@ Four different models were implemented and trained for comparison:
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 | ----- | -------- | --------- | ------ | -------- |
-| FNN   | 0.8913   | 0.8869    | 0.8967 | 0.8918   |
-| RNN   | 0.5135   | 0.5128    | 0.5505 | 0.5309   |
-| GRU   | 0.8580   | 0.8488    | 0.8711 | 0.8598   |
+| FNN   | 0.8912   | 0.8870    | 0.8966 | 0.8918   |
+| RNN   | 0.5135   | 0.5125    | 0.5504 | 0.5308   |
+| GRU   | 0.8577   | 0.8488    | 0.8705 | 0.8595   |
 | LSTM  | 0.8260   | 0.8432    | 0.8012 | 0.8217   |
 
 ## Conclusion
