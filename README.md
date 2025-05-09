@@ -2,7 +2,24 @@
 
 ## Overview
 
-This project is a personal learning exercise to explore foundational concepts in Natural Language Processing (NLP), including text preprocessing, vocabulary construction, vectorization, and the implementation of various neural network architectures. Using the [IMDB movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz), the goal is to perform sentiment analysis and compare the performance of multiple models implemented in PyTorch.
+This project is a personal learning exercise to explore foundational concepts in Natural Language Processing (NLP), including text preprocessing, vocabulary construction, vectorization, and the implementation of various neural network architectures. Using the [IMDB movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/), the goal is to perform sentiment analysis and compare the performance of multiple models implemented in PyTorch.
+
+## How to use this notebook
+
+- Clone this repository
+
+- Dowload [IMDB movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/) inside this cloned repository so the structure is
+
+```
++- aclImdb
+  +- test
+  +- train
+  +- ...
++- Sentiment.ipynb
++- README.md
+```
+
+- Load data and run interested cells
 
 ## Dataset
 
